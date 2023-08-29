@@ -1,8 +1,10 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "List Task App",
   "version": "1.0",
   "description": "A simple task management extension.",
+  "author": "abdullahazad",
+  "homepage_url": "https://github.com/hermesthecat/List-Task-App",
   "permissions": ["storage"],
   "browser_action": {
     "default_popup": "popup.html",
